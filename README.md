@@ -1,1 +1,3 @@
-# About
+# Configuring Serial Connection through HWIC-2T Interface Cards
+
+Here described the process of configuring a serial connection between routers using the "HWIC-2T interface card." Initial steps involve hardware installation and establishing physical connections based on a provided diagram. Subsequently, the process includes configuring IP settings for both routers to establish connectivity. Activating router ports follows, alongside the addition of specific rules in the routing table to regulate data flow. Ultimately, verification of network functionality using Protocol Data Units (PDUs) ensures the successful establishment of the network.
