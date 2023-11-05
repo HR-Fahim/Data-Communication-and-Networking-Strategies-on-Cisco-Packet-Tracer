@@ -1,3 +1,7 @@
+# Configuring DHCP, Gateways, and Interconnecting Subnetworks
+
+The purpose is to establish an interconnected network using a methodical approach. The process begins with setting up physical connections based on provided guidelines. Configuring DHCP ensures automatic IP assignment, leaving a pool available for devices. This process also involves defining gateway IPs within the DHCP setup. The router's IP alignment with respective subnetwork gateways enhances connectivity. Enabling the router's Ethernet ports further solidifies the network infrastructure. Utilizing PDU for connection verification between subnetworks ensures seamless data transfer. Overall, this method optimizes network setup for efficient, reliable, and interconnected systems.
+
 # Configuring Serial Connection through HWIC-2T Interface Cards
 
 Here described the process of configuring a serial connection between routers using the "HWIC-2T interface card." Initial steps involve hardware installation and establishing physical connections based on a provided diagram. Subsequently, the process includes configuring IP settings for both routers to establish connectivity. Activating router ports follows, alongside the addition of specific rules in the routing table to regulate data flow. Ultimately, verification of network functionality using Protocol Data Units (PDUs) ensures the successful establishment of the network.
