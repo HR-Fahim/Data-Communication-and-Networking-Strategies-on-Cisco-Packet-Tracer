@@ -1,5 +1,6 @@
 # Configuring DHCP, Gateways, and Interconnecting Subnetworks
 
+![Configuring DHCP, Gateways, and Interconnecting Subnetworks](https://github.com/HR-Fahim/Data-Communication-and-Networking-Strategies-with-Cisco-Packet-Tracer/assets/66734379/65d877f0-61de-4417-af72-7772513e4075)
 The purpose is to establish an interconnected network using a methodical approach. The process begins with setting up physical connections based on provided guidelines. Configuring DHCP ensures automatic IP assignment, leaving a pool available for devices. This process also involves defining gateway IPs within the DHCP setup. The router's IP alignment with respective subnetwork gateways enhances connectivity. Enabling the router's Ethernet ports further solidifies the network infrastructure. Utilizing PDU for connection verification between subnetworks ensures seamless data transfer. Overall, this method optimizes network setup for efficient, reliable, and interconnected systems.
 
 # Configuring Serial Connection through HWIC-2T Interface Cards
