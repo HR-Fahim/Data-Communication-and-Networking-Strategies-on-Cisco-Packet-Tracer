@@ -10,6 +10,7 @@ Here, it describes configuring a serial connection between routers using the "HW
 
 # The Dynamics of Routing Information Protocol (RIP)
 
+![The Dynamics of Routing Information Protocol (RIP)](https://github.com/HR-Fahim/Data-Communication-and-Networking-Strategies-on-Cisco-Packet-Tracer/assets/66734379/77623101-02c6-4b9f-be60-0cfec09b8b3b)
 Routing Information Protocol (RIP) stands out as one of the earliest distance-vector routing protocols, utilizing the hop count as a key routing metric. This protocol effectively mitigates routing loops by imposing a cap on the permissible number of hops within a path from source to destination. Notably, RIP sets a maximum limit of 15 hops, thereby imposing a constraint on the scale of networks it can effectively support. Beyond this threshold, a hop count of 16 designates an infinite distance, rendering the route unreachable.
 
 To enhance accuracy and stability, RIP employs several mechanisms, including split horizon, route poisoning, and holddown. These strategic measures collectively work to prevent the propagation of erroneous routing information, ensuring the integrity of network routing configurations. In essence, RIP plays a crucial role in maintaining the reliability and efficiency of network communication through its well-established distance-vector principles.
